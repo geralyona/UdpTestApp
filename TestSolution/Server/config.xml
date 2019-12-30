@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <port>8088</port>
+  <min_range>200</min_range>
+  <max_range>50000</max_range>
+  <address>225.0.0.1</address>
+</config>
